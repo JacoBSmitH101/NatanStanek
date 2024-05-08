@@ -1,3 +1,2 @@
 import NatanStanek
-
-print(NatanStanek.joke())
+NatanStanek.greet()

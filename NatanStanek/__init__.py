@@ -1,2 +1,3 @@
-def DoesHeSmell():
-    print("Yes he does");
+# NatanStanek/__init__.py
+def greet():
+    print("Hello from NatanStanek!")
