@@ -1,0 +1,7 @@
+setup.py
+NatanStanek/__init__.py
+NatanStanek.egg-info/PKG-INFO
+NatanStanek.egg-info/SOURCES.txt
+NatanStanek.egg-info/dependency_links.txt
+NatanStanek.egg-info/not-zip-safe
+NatanStanek.egg-info/top_level.txt
